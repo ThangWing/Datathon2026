@@ -2,9 +2,9 @@
 
 > Repository nộp bài Vòng 1 cuộc thi **DATATHON 2026 — The Gridbreaker**, được tổ chức bởi VinTelligence — VinUniversity Data Science & AI Club.
 
-## 1. Giới thiệu dự án
+## 1. Giới thiệu cuộc thi
 
-Dự án giải quyết bài toán phân tích dữ liệu cho một doanh nghiệp thương mại điện tử thời trang tại Việt Nam. Bộ dữ liệu mô phỏng hoạt động bán hàng, khách hàng, sản phẩm, khuyến mãi, tồn kho, vận chuyển, hoàn trả, đánh giá và lưu lượng truy cập website trong giai đoạn lịch sử.
+Cuộc thi nêu ra bài toán phân tích dữ liệu cho một doanh nghiệp thương mại điện tử thời trang tại Việt Nam. Bộ dữ liệu mô phỏng hoạt động bán hàng, khách hàng, sản phẩm, khuyến mãi, tồn kho, vận chuyển, hoàn trả, đánh giá và lưu lượng truy cập website trong giai đoạn lịch sử.
 
 Repo này bao gồm toàn bộ mã nguồn, notebook, dashboard, hình ảnh phân tích, báo cáo và file dự báo dùng để nộp lên Kaggle cho Vòng 1.
 
